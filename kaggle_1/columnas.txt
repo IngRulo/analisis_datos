@@ -1,0 +1,31 @@
+PassengerId: Identificador único del pasajero
+Survived: 0 = No sobrevivió, 1 = Sobrevivió
+Pclass: Clase del boleto (1 = Primera, 2 = Segunda, 3 = Tercera)
+Name: Nombre completo
+Sex: male / female
+Age: Edad en años
+SibSp: Número de hermanos/cónyuges a bordo
+Parch: Número de padres/hijos a bordo
+Ticket: Número de ticket
+Fare: Tarifa pagada
+Cabin: Número de cabina
+Embarked: Puerto de embarque (C = Cherbourg, Q = Queenstown, S = Southampton)
+
+
+===========
+=== AVANCE TITANIC ===
+
+A. Carga y exploración:
+[pega output de df.info() y describe()]
+
+B. Nulos encontrados:
+[columna: cantidad]
+
+C. Mi plan de limpieza:
+[explica qué harás con Age, Cabin, Embarked y por qué]
+
+D. Duda específica (si tienes):
+[escribe tu pregunta clara]
+
+O si ya terminaste:
+"Listo para revisión - [Nivel 1 completado]"
