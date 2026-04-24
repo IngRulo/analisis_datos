@@ -14,7 +14,6 @@ Bienvenido a mi portafolio profesional. Soy analista de datos junior con formaci
 | Carpeta      | Proyecto                             | Habilidades               |
 | ------------ | ------------------------------------ | ------------------------- |
 | `limpieza_1` | Análisis exploratorio de datos (EDA) | Pandas, Limpieza de datos |
-| ------------ | ------------------------------------ | ------------------------- |
 | `Análisis 1` | Análisis exploratorio de datos  | EDA, Análisis exploratorio, KPIs |
 
 ## Proyectos destacados
