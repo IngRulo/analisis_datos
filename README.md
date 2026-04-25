@@ -23,7 +23,6 @@ Bienvenido a mi portafolio profesional. Soy analista de datos junior con formaci
 - **LinkedIn:** [linkedin.com/in/raultovarv](https://www.linkedin.com/in/raultovarv/)
 - **Correo:** raul.tovarv@gmail.com
 - **Tableau Público:** [Perfil Tableau](https://public.tableau.com/app/profile/ra.l.tovar/vizzes)
-
-## =====
+- **Kaggle:** [Perfil Kaggle](https://www.kaggle.com/raultovar27)
 
 _Este portafolio se actualiza constantemente. Última actualización: Abril 2026_
