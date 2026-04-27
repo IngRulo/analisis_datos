@@ -27,8 +27,8 @@ Bienvenido a mi portafolio profesional. Soy analista de datos junior con formaci
 
 | Carpeta      | Proyecto                             | Habilidades               |
 | ------------ | ------------------------------------ | ------------------------- |
-| ![`limpieza_1`](https://github.com/RulTovar/analisis_datos/tree/main/eda_1) | Análisis exploratorio de datos (EDA) | Pandas, Limpieza de datos |
-| ![`Proyecto - Titanic`](https://github.com/RulTovar/analisis_datos/tree/main/kaggle_1) | Análisis exploratorio de datos  | EDA, Análisis exploratorio, KPIs |
+| [`limpieza_1`](https://github.com/RulTovar/analisis_datos/tree/main/eda_1) | Análisis exploratorio de datos (EDA) | Pandas, Limpieza de datos |
+| [`Proyecto - Titanic`](https://github.com/RulTovar/analisis_datos/tree/main/kaggle_1) | Análisis exploratorio de datos  | EDA, Análisis exploratorio, KPIs |
 
 ## Proyectos destacados
 
